@@ -1,1 +1,1 @@
-To be completed (just testing Git knowledge at the moment)
+This is a toy website that I made in order to complete an Odin Project assignment (The Odin Project is a free online course). You can view the website by clicking the following link: https://rednaxelam.github.io/odin-recipes/
